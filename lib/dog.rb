@@ -7,4 +7,8 @@ class Dog
   def name
     @name #Getter method
   end
+
+  def bark
+  end
+
 end
