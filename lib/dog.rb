@@ -1,7 +1,7 @@
 # Your code goes here!
 class Dog
   def name=(name)
-    @name = name #setter method
+    @name = name #Detter method
   end
 
   def name
